@@ -1,11 +1,11 @@
 # Hi, I'm Sakata Ponsuke!
-### I work as a web designer. On GitHub, I will upload my creations as a portfolio.
+I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 
 ## 🎨Web Design
-・ワイヤーフレーム制作
-・デザインカンプ制作
-・Webサイト制作と編集
-・バナー制作
+・ワイヤーフレーム制作<br>
+・デザインカンプ制作<br>
+・Webサイト制作と編集<br>
+・バナー制作<br>
 
 ## 💻Coding
 ・Webサイト制作と編集
