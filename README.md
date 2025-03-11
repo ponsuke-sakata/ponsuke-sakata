@@ -1,5 +1,5 @@
-#Hi, I'm Sakata Ponsuke!
-I work as a web designer. On GitHub, I will upload my creations as a portfolio.
+# Hi, I'm Sakata Ponsuke!
+## I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 
 🎨Web Design
 my skills
