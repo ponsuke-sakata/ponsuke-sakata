@@ -14,10 +14,12 @@ I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 ・レスポンシブデザイン<br>
 ・DOM操作<br>
 ・インタラクティブなWebページ制作<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vscode)](https://skillicons.dev)
 
 ## 🧰Tools
 ・Webサイトの構築と管理<br>
 ・ローカル開発環境の構築<br>
 ・コードのバージョン管理<br>
-
-
+<br>
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma,)](https://skillicons.dev)
