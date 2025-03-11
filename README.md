@@ -8,14 +8,14 @@ I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 ・バナー制作<br>
 
 ## 💻Coding
-・Webサイト制作と編集
-・レスポンシブデザイン
-・DOM操作
-・インタラクティブなWebページ制作
+・Webサイト制作と編集<br>
+・レスポンシブデザイン<br>
+・DOM操作<br>
+・インタラクティブなWebページ制作<br>
 
 ## 🧰Tools
-・Webサイトの構築と管理
-・ローカル開発環境の構築
-・コードのバージョン管理
+・Webサイトの構築と管理<br>
+・ローカル開発環境の構築<br>
+・コードのバージョン管理<br>
 
 
