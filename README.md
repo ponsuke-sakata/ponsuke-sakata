@@ -6,7 +6,7 @@ I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 ・デザインカンプ制作<br>
 ・Webサイト制作と編集<br>
 ・バナー制作<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma,)](https://skillicons.dev)
 
 ## 💻Coding
 ・Webサイト制作と編集<br>
