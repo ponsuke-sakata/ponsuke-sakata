@@ -2,7 +2,7 @@
 I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 
  <p align="left"> 
-   <img alt="Top Langs" height="150px" css="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponsuke-sakata&layout=compact&show_icons=true" />
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponsuke-sakata&layout=compact&show_icons=true" />
    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ponsuke-sakata" />
  </p>
 
