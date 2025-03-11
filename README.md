@@ -1,6 +1,8 @@
 # Hi, I'm Sakata Ponsuke!
 I work as a web designer. On GitHub, I will upload my creations as a portfolio.
 
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={username})](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎨Web Design
 ・ワイヤーフレーム制作<br>
 ・デザインカンプ制作<br>
